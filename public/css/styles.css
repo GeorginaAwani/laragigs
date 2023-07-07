@@ -1,0 +1,11 @@
+#mainNavbar .navbar-brand {
+    --bs-navbar-brand-font-size: 1.7rem;
+}
+
+.tag {
+    --bs-btn-font-size: 0.75em;
+}
+
+#footer {
+    backdrop-filter: blur(0.5rem);
+}
